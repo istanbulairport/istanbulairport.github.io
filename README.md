@@ -1,2 +1,2 @@
 "# IGASTATUS | Istanbul Grand Airport Uçuş Takip
-#http://iststatus.tk/
+#https://istanbulairport.github.io
