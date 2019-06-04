@@ -20,6 +20,14 @@
         <link rel="stylesheet" href="assets/css/jquery.fancybox.css">
         <link rel="stylesheet" href="assets/css/font-awesome.min.css">
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	      <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+  <script src="https://kit.fontawesome.com/70abcf0a30.js"></script>
+	      <style>
+  .alertbox {
+font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+  </style>
+
         <!--        <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">-->
 
 
@@ -39,11 +47,24 @@
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-
-
-	<script>
-		bootbox.alert("Hello world!");
-	</script>
+  <script type="text/javascript" class="alertbox">
+  Swal.fire({
+    title: '<strong>V2 <u>is out!</u></strong>',
+    type: 'info',
+    html:
+      'You can try, ' +
+      '<a href="https://istanbulairport.github.io/v2/">v2</a> ' +
+      'now!',
+    showCloseButton: true,
+    showCancelButton: true,
+    focusConfirm: false,
+    confirmButtonText:
+      '<i class="fa fa-thumbs-up"></i> Great!',
+    confirmButtonAriaLabel: 'Thumbs up, great!',
+    cancelButtonText:
+      '<i class="fa fa-thumbs-down"></i>',
+    cancelButtonAriaLabel: 'Thumbs down',
+  }) </script>
         <nav id="main-nav">
             <ul>
                 <li><a href="#home"><span>Istanbul IST-LTFM</span></a></li>
