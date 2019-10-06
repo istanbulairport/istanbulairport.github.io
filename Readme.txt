@@ -7,6 +7,7 @@
 
 Html Created by: http://bootstrapthemes.co
 
+ANIL BAKİ DURMUŞ
 
 
 Psd Created by: --Dorinel Nedelcu-- https://www.behance.net/gallery/34426599/Cooking-School-FREE-PSD-Template
@@ -21,7 +22,7 @@ link back to this site is required, however any credit will be much appreciated.
 
 Prohibitions:
 You do not have the rights to redistribute, resell, lease, license, sublicense or offer 
-files downloaded from http://bootstrapthemes.co to any third party �as is� or as a separate attachment 
+files downloaded from http://bootstrapthemes.co to any third party ìas isî or as a separate attachment 
 from any of your work. If you wish to promote my resources on your site, you must link back 
 to the resource page where users can find the download and not directly to the download file.
 
