@@ -1,7 +1,3 @@
-Got it! Here's a README template tailored for the Istanbul Airport GitHub repository:
-
----
-
 # Istanbul Airport Website
 
 Welcome to the Istanbul Airport GitHub repository!
