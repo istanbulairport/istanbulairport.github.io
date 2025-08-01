@@ -1,36 +1,56 @@
-== Theme Name: Cooking School - FREE HTML5 Template
 
-== Copyright (c) 2016 BootstrapThemes.co
+# 🛬 IGASTATUS | Istanbul Airport (IST) Flight Tracker
 
-== http://BootstrapThemes.co
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Figastatus.com)](https://igastatus.com)
+[![License](https://img.shields.io/github/license/igastatus/igastatus)](https://github.com/igastatus/igastatus/blob/main/LICENSE)
 
+IGASTATUS is an open-source flight tracking platform that delivers real-time arrival and departure information for Istanbul Airport (IST). Designed with aviation enthusiasts and travelers in mind, it provides a seamless and responsive experience.
 
-Html Created by: http://bootstrapthemes.co
+---
 
-ANIL BAKİ DURMUŞ
+## 🌐 Website
 
+🔗 **[igastatus.com](https://igastatus.com)**
 
-Psd Created by: --Dorinel Nedelcu-- https://www.behance.net/gallery/34426599/Cooking-School-FREE-PSD-Template
+---
 
+## 🚀 Features
 
-Rights: 
-You are permitted to use the resources for any number of personal and commercial projects.
-You may modify the resources according to your requirements and include them into works, 
-such as websites, applications or other materials intended for sale. No attribution or 
-link back to this site is required, however any credit will be much appreciated.
+- Real-time flight status for Istanbul Airport (IST)
+- Lightweight and mobile-friendly design
+- Clean UI with easy filtering for airlines, gates, and destinations
+- SEO-optimized static pages
 
+---
 
-Prohibitions:
-You do not have the rights to redistribute, resell, lease, license, sublicense or offer 
-files downloaded from http://bootstrapthemes.co to any third party ìas isî or as a separate attachment 
-from any of your work. If you wish to promote my resources on your site, you must link back 
-to the resource page where users can find the download and not directly to the download file.
+## 🛠️ Tech Stack
 
+- HTML / CSS / JavaScript
+- Optional: Next.js / React / TailwindCSS (if applicable)
+- Flight data from open aviation APIs
+- Deployment via GitHub Pages, Vercel, or Netlify
 
+---
 
-If you would like to share one of my resources, you can do so by making a link to the specific 
-resource on http://bootstrapthemes.co , you can if you wish insert the embed code for the product previews images to illustrate your link. 
-No HOTLINKING is allowed i.e. you cannot make a direct link to the download or/and the images hosted on http://bootstrapthemes.co
+## 📂 Repository
 
-Concerning blog posts, you are free to link to it from any website, 
-but you cannot however publish it as it is, without prior consent from http://bootstrapthemes.co
+GitHub: [github.com/igastatus/igastatus](https://github.com/igastatus/igastatus)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/igastatus/igastatus/blob/main/LICENSE) file for more details.
+
+---
+
+## 🙌 Contributing
+
+Contributions are welcome! Please submit issues or pull requests to help improve the platform.
+
+---
+
+## 👨‍💻 Developed by
+
+**Anıl Baki Durmuş**  
+Passionate about aviation and creator of [igastatus.com](https://igastatus.com) and [sawstatus.com](https://sawstatus.com)  
