@@ -2,7 +2,7 @@
 # 🛬 IGASTATUS | Istanbul Airport (IST) Flight Tracker
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Figastatus.com)](https://igastatus.com)
-[![License](https://img.shields.io/github/license/igastatus/igastatus)](https://github.com/igastatus/igastatus/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/igastatus/igastatus)](https://github.com/istanbulairport/istanbulairport.github.io/blob/master/blob/main/LICENSE)
 
 IGASTATUS is an open-source flight tracking platform that delivers real-time arrival and departure information for Istanbul Airport (IST). Designed with aviation enthusiasts and travelers in mind, it provides a seamless and responsive experience.
 
@@ -40,7 +40,7 @@ GitHub: [github.com/igastatus/igastatus](https://github.com/igastatus/igastatus)
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](blob/master/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/istanbulairport/istanbulairport.github.io/blob/master/blob/main/LICENSE) file for more details.
 
 ---
 
