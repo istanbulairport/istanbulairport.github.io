@@ -40,7 +40,7 @@ GitHub: [github.com/igastatus/igastatus](https://github.com/igastatus/igastatus)
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/igastatus/igastatus/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](blob/master/blob/main/LICENSE) file for more details.
 
 ---
 
